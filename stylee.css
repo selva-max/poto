@@ -1,0 +1,101 @@
+header{
+   margin: 30px auto;
+      width: 90%;
+      background-color: rgb(30, 202, 24);
+      padding: 20px;
+      border-radius: 10px;
+      box-shadow: 0 0 10px rgba(203, 3, 3, 0.907);
+}
+#skills{
+   margin: 30px auto;
+      width: 90%;
+      background-color: rgb(128, 108, 140);
+      padding: 20px;
+      border-radius: 10px;
+      box-shadow: 0 0 10px rgba(208, 150, 13, 0.973);
+}
+#contact{
+   margin: 30px auto;
+      width: 90%;
+      background-color: rgb(141, 111, 249);
+      padding: 20px;
+      border-radius: 10px;
+      box-shadow: 0 0 10px rgba(44, 38, 38, 0.973);
+}
+
+h1{
+    color: rgb(8, 7, 7);
+}
+h1,ul{
+    text-align: center;
+}
+ul li{
+    display: inline;
+    padding-left: 60px;
+    padding-right: 60px;
+    color: rgb(15, 13, 12);
+    font-size: 20px;
+}
+ul a{
+    text-decoration: none;
+}
+a li:hover{
+    font-size: 23px ;
+    color: rgb(231, 4, 4);
+}
+img{
+    border-radius: 10%;
+}
+
+#home{
+    text-align: center;
+}
+#home img{
+    height: 200px;
+    width: 200px;
+
+}
+#about{
+    text-align: center;
+}
+#about h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+#skills li{
+   color: rgb(126, 119, 139);
+}
+
+table,tr,th,td{
+    border: 3px solid black;
+    border-collapse: collapse;
+}
+table th{
+    background-color: rgb(127, 132, 198);
+}
+table td{
+    background-color: rgb(233, 236, 236);
+}
+
+#about h1{
+    color: rgb(14, 14, 206);
+  text-shadow: 2px 2px 4px #9cb927;
+}
+/* #about{
+    display:flex;
+    padding: 30px;
+}
+ #about div{
+    padding: 20px;
+}  */
+header {
+      margin: 50px auto;
+      width: 90%;
+      background-color: rgb(152, 147, 172);
+      padding: 20px;
+      border-radius: 10px;
+      box-shadow: 0 0 10px rgba(138, 75, 75, 0.3);
+    } 
+ body{
+    background-image: linear-gradient(rgb(133, 13, 111), rgb(147, 192, 240));
+}
